@@ -40,7 +40,7 @@ CCAC2026 赛道七：中英文语境下图像隐喻识别和情感分类评测
 英文训练数据集共1800条，
 链接: https://pan.baidu.com/s/1V4fXDEAaS8zKcIeLlLwHAA?pwd=djnu 提取码: djnu
 
-测试数据集将根据CCAC评测时间随后发布。
+测试数据集将根据CCAC评测时间随后发布，本任务使用准确率（accuracy）和F1值作为评价标准。
 
 
 四、组织者和联系人
